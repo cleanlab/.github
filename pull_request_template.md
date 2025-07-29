@@ -2,7 +2,7 @@
 
 ## Key Info
 
-- Implementation plan: [link]()
+- Implementation plan: link
 - Priority: 
 <!-- priority is low, normal, or urgent; for low or urgent, include your expected deadline -->
 
